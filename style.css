@@ -1,0 +1,19 @@
+#logo_img{
+    width: 10%;
+    height: 20%;
+}
+h1{
+background: rgb(214,80,85);
+background: radial-gradient(circle, rgba(214,80,85,1) 24%, rgba(80,164,214,1) 100%);
+color: white;
+}
+
+#resultrow img{
+    width: 50%;
+    height: 50%;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2 , 2 , 0.2);
+}
+#resultrow img:hover{
+    border-radius: 140px;
+}
